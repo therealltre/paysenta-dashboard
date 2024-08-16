@@ -1,6 +1,5 @@
 import type { ReactElement } from "react";
 import { Grid, Box } from "@mui/material";
-import RecommendedActions from "../../src/components/creditfactors/RecommendedActions";
 import PageContainer from "../../src/components/container/PageContainer";
 import FullLayout from "../../src/layouts/full/FullLayout";
 import UserProfile from "../../src/components/userprofile/UserProfile";
